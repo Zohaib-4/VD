@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">VD</string>
+    <string name="welcome_to_virtual_doctor">Welcome to Virtual Doctor!</string>
+    <string name="virtual_doctor">Virtual Doctor</string>
+    <string name="note1">Now consultation made easy</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="sign_up">Sign Up</string>
+</resources>
