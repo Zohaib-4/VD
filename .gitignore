@@ -3,3 +3,5 @@ Models/
 __pycache__
 Medicine_System/
 emotion_analysis/
+.env
+/node_modules
